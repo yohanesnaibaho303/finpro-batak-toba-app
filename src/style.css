@@ -8,6 +8,18 @@ body {
   font-family: "Manrope", sans-serif;
 }
 
+.inline-flex {
+  display: inline-flex;
+  align-items: center;
+}
+
+.svgspeak {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 5px;
+}
+
 @layer utilities {
   .the-header {
     -webkit-backdrop-filter: blur(12px);

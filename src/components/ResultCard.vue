@@ -1,9 +1,14 @@
 <template>
     <div
-      class="with-transition hover:from-indigo-400 hover:to-basePurple hover:text-white group rounded-lg relative border p-2.5 flex flex-col space-y-2 group hover:shadow-xl hover:shadow-indigo-500/20 bg-gradient-to-br transition cursor-pointer"
+      class="card-container group"
     >
-      <div class="inline-flex items-center space-x-2 text-sm">
-        <span class="truncate capitalize">{{ language.batak }}</span>
+      <div class="card-batak-text">
+        <svg v-if="index == 0" xmlns="http://www.w3.org/2000/svg" class="card-batak-svg" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M17.707 9.293a1 1 0 010 1.414l-7 7a1 1 0 01-1.414 0l-7-7A.997.997 0 012 10V5a3 3 0 013-3h5c.256 0 .512.098.707.293l7 7zM5 6a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
+        </svg>
+        <div class="inline-flex items-center space-x-2 text-sm">
+          <span class="truncate capitalize">{{ language.batak }}</span>
+        </div>
       </div>
   
       <div class="inline-flex items-center space-x-2">
@@ -14,35 +19,18 @@
           {{ language.english }}
         </p>
       </div>
-  
+        
       <!-- icon untuk click speak -->
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="24px" height="24px" @click="toggleSpeaking">
-            <g stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0">
-                <g id="SVGRepo_bgCarrier"></g>
-                <g id="SVGRepo_tracerCarrier"></g>
-                <g id="SVGRepo_iconCarrier">
-                <path d="M45.563 29.174l-22-15c-.307-.208-.703-.231-1.031-.058C22.205 14.289 22 14.629 22 15v30c0 .371.205.711.533.884.168.115.365.174.563.174.16 0 .321-.038.467-.115l22-15c.273-.166.437-.475.437-.816s-.164-.65-.437-.816l-22-15c-.146-.077-.307-.115-.467-.115-.223 0-.444.077-.611.216-.328.173-.533.513-.533.884v30c0 .371.205.711.533.884.168.115.365.174.563.174.16 0 .321-.038.467-.115l22-15c.273-.166.437-.475.437-.816s-.164-.65-.437-.816z" fill="#fff" />
-                <path d="M30 0C13.458 0 0 13.458 0 30s13.458 30 30 30 30-13.458 30-30S46.542 0 30 0zm0 58C14.561 58 2 45.439 2 30S14.561 2 30 2s28 12.561 28 28-12.561 28-28 28z" fill="#fff" />
-                </g>
-            </g>
-        </svg>
+      <svg class="svgspeak" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" width="24px" height="24px" @click="toggleSpeaking" >
+        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+        <g id="SVGRepo_iconCarrier"> 
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M11 6.04029C11 4.78253 9.5451 4.08327 8.56296 4.86899L4.64922 7.99998H3C1.34315 7.99998 0 9.34312 0 11V13C0 14.6568 1.34315 16 3 16H4.64922L8.56296 19.131C9.5451 19.9167 11 19.2174 11 17.9597V6.04029ZM5.89861 9.56172L9 7.0806V16.9194L5.89861 14.4382C5.54398 14.1545 5.10336 14 4.64922 14H3C2.44772 14 2 13.5523 2 13V11C2 10.4477 2.44772 9.99998 3 9.99998H4.64922C5.10336 9.99998 5.54398 9.84542 5.89861 9.56172ZM17.0711 5.12124C16.6805 4.73072 16.0474 4.73072 15.6568 5.12124C15.2663 5.51177 15.2663 6.14493 15.6568 6.53545C18.781 9.65965 18.781 14.725 15.6568 17.8492C15.2663 18.2397 15.2663 18.8729 15.6568 19.2634C16.0474 19.6539 16.6805 19.6539 17.0711 19.2634C20.9763 15.3581 20.9763 9.02648 17.0711 5.12124ZM14.2426 7.94967C13.8521 7.55914 13.2189 7.55914 12.8284 7.94967C12.4379 8.34019 12.4379 8.97336 12.8284 9.36388C14.3905 10.926 14.3905 13.4586 12.8284 15.0207C12.4379 15.4113 12.4379 16.0444 12.8284 16.4349C13.2189 16.8255 13.8521 16.8255 14.2426 16.4349C16.5858 14.0918 16.5858 10.2928 14.2426 7.94967Z" fill="#ffffff"></path> 
+        </g>
+      </svg>
 
     </div>
   </template>
-
-  <style scoped>
-  .inline-flex {
-    display: inline-flex;
-    align-items: center;
-  }
-  
-  svg {
-    position: absolute;
-    top: 0;
-    right: 0;
-    margin: 5px;
-  }
-</style>
   
   <script lang="ts" setup>
   import { ref } from "vue";
