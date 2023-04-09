@@ -64,10 +64,12 @@
     if (synth.speaking) {
       synth.cancel();
     } else {
-      speak(`${language.english} in Batak Toba is ${language.batak}`);
+      speak(`${language.batak}`);
     }
     speaking.value = synth.speaking;
   }
+
   
   </script>
   
+  <!-- speak(`${language.english} in Batak Toba is ${language.batak}`); -->
