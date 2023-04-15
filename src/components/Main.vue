@@ -103,7 +103,7 @@ function searching() {
     shouldSort: true,
     // includeMatches: false,
     // findAllMatches: false,
-    minMatchCharLength: 4,
+    minMatchCharLength: 3,
     // location: 0,
     // threshold: 0.6,
     // distance: 100,
@@ -111,6 +111,8 @@ function searching() {
     // ignoreLocation: false,
     // ignoreFieldNorm: false,
     // fieldNormWeight: 1,
+    useIndex: true, // menggunakan indeks pencarian
+    threshold: 0.4, // menentukan nilai threshold yang tepat
     keys: ["english"],
   };
 
