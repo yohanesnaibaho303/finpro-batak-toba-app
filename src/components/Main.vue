@@ -99,20 +99,19 @@ const dictionary = ref(dictionaryJSON);
 function searching() {
   const options = {
     // isCaseSensitive: false,
-    includeScore: false,
-    shouldSort: true,
+    // includeScore: false,
+    // shouldSort: true,
     // includeMatches: false,
     // findAllMatches: false,
-    minMatchCharLength: 3,
-    // location: 0,
-    // threshold: 0.6,
-    // distance: 100,
+    minMatchCharLength: 4,
+    location: 0,
+    threshold: 0.6,
+    distance: 100,
     // useExtendedSearch: false,
     // ignoreLocation: false,
     // ignoreFieldNorm: false,
     // fieldNormWeight: 1,
-    useIndex: true, // menggunakan indeks pencarian
-    threshold: 0.4, // menentukan nilai threshold yang tepat
+    // useIndex: true, // menggunakan indeks pencarian
     keys: ["english"],
   };
 
