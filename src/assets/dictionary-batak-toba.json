@@ -1065,18 +1065,18 @@
 	},
 	{
 		"english": "rice",
-		"batak": "idahan (cooked), boras (uncooked)"
+		"batak": "idahan, boras"
 	},
 	{
 		"english": "rich",
 		"batak": "mamora"
 	},
 	{
-		"english": "right (not left)",
+		"english": "right",
 		"batak": "siamun"
 	},
 	{
-		"english": "right/correct",
+		"english": "correct",
 		"batak": "situtu, sitohu, sintong"
 	},
 	{
@@ -1144,7 +1144,7 @@
 		"batak": "metmet"
 	},
 	{
-		"english": "short (time)",
+		"english": "time",
 		"batak": "pukkul"
 	},
 	{
@@ -1164,8 +1164,8 @@
 		"batak": "sarupa"
 	},
 	{
-		"english": "single (not married)",
-		"batak": "doli-doli (man), anakboru (woman)"
+		"english": "single",
+		"batak": "doli-doli, anakboru"
 	},
 	{
 		"english": "situation",
@@ -1196,7 +1196,7 @@
 		"batak": "tagelleng"
 	},
 	{
-		"english": "smell/stench (n.)",
+		"english": "smell",
 		"batak": "bou, manggus"
 	},
 	{
@@ -1236,7 +1236,7 @@
 		"batak": "siak"
 	},
 	{
-		"english": "stack (n.)",
+		"english": "stack",
 		"batak": "marsitipahan"
 	},
 	{
@@ -1328,427 +1328,411 @@
 		"batak": "loja"
 	},
 	{
-		"english": "to (me)",
-		"batak": "tu ahu"
+		"english": "answer",
+		"batak": "mangalusi, alusi"
 	},
 	{
-		"english": "to (you)",
-		"batak": "tuho"
-	},
-	{
-		"english": "to answer",
-		"batak": "mangalusi, alusi art"
-	},
-	{
-		"english": "to argue",
+		"english": "argue",
 		"batak": "martokkar"
 	},
 	{
-		"english": "to be able",
-		"batak": "boe/i + verb"
+		"english": "able",
+		"batak": "boi"
 	},
 	{
-		"english": "to begin",
+		"english": "begin",
 		"batak": "patwolo"
 	},
-	{
-		"english": "to bite",
+	{	
+		"english": "bite",
 		"batak": "mangkarut"
 	},
 	{
-		"english": "to bring",
+		"english": "bring",
 		"batak": "mamboan, boanon"
 	},
 	{
-		"english": "to bring (a present)",
+		"english": "bring (a present)",
 		"batak": "marsilua"
 	},
 	{
-		"english": "to burn",
+		"english": "burn",
 		"batak": "manutung"
 	},
 	{
-		"english": "to buy",
+		"english": "buy",
 		"batak": "manuhor"
 	},
 	{
-		"english": "to carry",
+		"english": "carry",
 		"batak": "mamboan"
 	},
 	{
-		"english": "to cause (to happen)",
+		"english": "cause (happen)",
 		"batak": "mambahen"
 	},
 	{
-		"english": "to close",
+		"english": "close",
 		"batak": "manutup"
 	},
 	{
-		"english": "to come",
+		"english": "come",
 		"batak": "ro"
 	},
 	{
-		"english": "to cook",
+		"english": "cook",
 		"batak": "mangaloppa"
 	},
 	{
-		"english": "to cry",
+		"english": "cry",
 		"batak": "taritu"
 	},
 	{
-		"english": "to cut",
+		"english": "cut",
 		"batak": "maneat"
 	},
 	{
-		"english": "to dance",
+		"english": "dance",
 		"batak": "marjoget"
 	},
 	{
-		"english": "to drink (v.)",
+		"english": "drinking",
 		"batak": "manginum"
 	},
 	{
-		"english": "to eat",
+		"english": "eat",
 		"batak": "mangallang, mangan"
 	},
 	{
-		"english": "to feel (an emotional state)",
+		"english": "feel",
 		"batak": "roha"
 	},
 	{
-		"english": "to find",
+		"english": "find",
 		"batak": "mandapot, dapot"
 	},
 	{
-		"english": "to forget",
+		"english": "forget",
 		"batak": "mangalupahon, lupa"
 	},
 	{
-		"english": "to forgive",
+		"english": "forgive",
 		"batak": "manolsoli"
 	},
 	{
-		"english": "to give",
+		"english": "give",
 		"batak": "mangalehon"
 	},
 	{
-		"english": "to grow",
+		"english": "grow",
 		"batak": "manuan"
 	},
 	{
-		"english": "to guess",
+		"english": "guess",
 		"batak": "mandodo, dodo"
 	},
 	{
-		"english": "to hate",
+		"english": "hate",
 		"batak": "marsogoniroha, manadikkon"
 	},
 	{
-		"english": "to have",
+		"english": "have",
 		"batak": "napuna"
 	},
 	{
-		"english": "to hear",
+		"english": "hear",
 		"batak": "mambege"
 	},
 	{
-		"english": "to help",
+		"english": "help",
 		"batak": "hubantu, mangurupi"
 	},
 	{
-		"english": "to hire/rent",
+		"english": "hire/rent",
 		"batak": "pasewahon"
 	},
 	{
-		"english": "to hurry",
+		"english": "hurry",
 		"batak": "pahatop"
 	},
 	{
-		"english": "to invite",
+		"english": "invite",
 		"batak": "manggokhon"
 	},
 	{
-		"english": "to kill",
+		"english": "kill",
 		"batak": "mamburje"
 	},
 	{
-		"english": "to kiss",
+		"english": "kiss",
 		"batak": "mangummahon"
 	},
 	{
-		"english": "to know",
+		"english": "know",
 		"batak": "mamboto, huboto"
 	},
 	{
-		"english": "to laugh",
+		"english": "laugh",
 		"batak": "mengkel"
 	},
 	{
-		"english": "to learn",
+		"english": "learn",
 		"batak": "marsiajar"
 	},
 	{
-		"english": "to leave",
+		"english": "leave",
 		"batak": "lao"
 	},
 	{
-		"english": "to like",
+		"english": "like",
 		"batak": "lomo"
 	},
 	{
-		"english": "to listen",
+		"english": "listen",
 		"batak": "mambege"
 	},
 	{
-		"english": "to live",
+		"english": "live",
 		"batak": "tinggal"
 	},
 	{
-		"english": "to look",
+		"english": "look",
 		"batak": "mamereng"
 	},
 	{
-		"english": "to lose",
+		"english": "lose",
 		"batak": "hamagoan"
 	},
 	{
-		"english": "to make happen",
+		"english": "make happen",
 		"batak": "mambahen"
 	},
 	{
-		"english": "to marry",
+		"english": "marry",
 		"batak": "mangalua"
 	},
 	{
-		"english": "to meet",
+		"english": "meet",
 		"batak": "manjumpangi"
 	},
 	{
-		"english": "to miss",
+		"english": "miss",
 		"batak": "masihol"
 	},
 	{
-		"english": "to name",
+		"english": "name",
 		"batak": "goar"
 	},
 	{
-		"english": "to open",
+		"english": "open",
 		"batak": "mambukka"
 	},
 	{
-		"english": "to order/book",
+		"english": "order/book",
 		"batak": "mamesan"
 	},
 	{
-		"english": "to owe",
+		"english": "owe",
 		"batak": "maminjam owner"
 	},
 	{
-		"english": "to pay",
+		"english": "pay",
 		"batak": "mambayar"
 	},
 	{
-		"english": "to play",
-		"batak": "‘mar’ + verb root"
+		"english": "play",
+		"batak": "mar"
 	},
 	{
-		"english": "to play (a ball game)",
-		"batak": "marbolo"
-	},
-	{
-		"english": "to play a game",
+		"english": "playing",
 		"batak": "marmeam"
 	},
 	{
-		"english": "to play/make a joke",
+		"english": "joke",
 		"batak": "margait"
 	},
 	{
-		"english": "to rain",
+		"english": "rain",
 		"batak": "udan"
 	},
 	{
-		"english": "to read",
+		"english": "read",
 		"batak": "manjaha"
 	},
 	{
-		"english": "to receive",
+		"english": "receive",
 		"batak": "manjalo"
 	},
 	{
-		"english": "to remember",
+		"english": "remember",
 		"batak": "mangingot, ingot"
 	},
 	{
-		"english": "to rent",
+		"english": "rent",
 		"batak": "manewa, sewa"
 	},
 	{
-		"english": "to reserve",
+		"english": "reserve",
 		"batak": "paradehon"
 	},
 	{
-		"english": "to rest",
+		"english": "rest",
 		"batak": "paulak hosa"
 	},
 	{
-		"english": "to return",
+		"english": "return",
 		"batak": "paulakhon, mulak"
 	},
 	{
-		"english": "to save",
+		"english": "save",
 		"batak": "manimpan"
 	},
 	{
-		"english": "to say",
+		"english": "say",
 		"batak": "mandok"
 	},
 	{
-		"english": "to search",
+		"english": "search",
 		"batak": "mangalului"
 	},
 	{
-		"english": "to see",
+		"english": "see",
 		"batak": "mamereng, mangida"
 	},
 	{
-		"english": "to sell",
+		"english": "sell",
 		"batak": "manjual"
 	},
 	{
-		"english": "to send",
+		"english": "send",
 		"batak": "mangirim"
 	},
 	{
-		"english": "to share",
+		"english": "share",
 		"batak": "mambagi"
 	},
 	{
-		"english": "to shout",
+		"english": "shout",
 		"batak": "manjou"
 	},
 	{
-		"english": "to show",
+		"english": "show",
 		"batak": "patuduhon"
 	},
 	{
-		"english": "to shut",
+		"english": "shut",
 		"batak": "mambodil"
 	},
 	{
-		"english": "to sing",
+		"english": "sing",
 		"batak": "marlogu"
 	},
 	{
-		"english": "to sit",
+		"english": "sit",
 		"batak": "hundul"
 	},
 	{
-		"english": "to sleep",
+		"english": "sleep",
 		"batak": "laho modom"
 	},
 	{
-		"english": "to smile",
+		"english": "smile",
 		"batak": "mekkel"
 	},
 	{
-		"english": "to speak",
+		"english": "speak",
 		"batak": "makkatai"
 	},
 	{
-		"english": "to start",
+		"english": "start",
 		"batak": "mamulai"
 	},
 	{
-		"english": "to stay",
+		"english": "stay",
 		"batak": "tinggal"
 	},
 	{
-		"english": "to steal",
+		"english": "steal",
 		"batak": "manakko"
 	},
 	{
-		"english": "to stop",
+		"english": "stop",
 		"batak": "pasitoppon"
 	},
 	{
-		"english": "to swim",
+		"english": "swim",
 		"batak": "marlange"
 	},
 	{
-		"english": "to take/carry",
+		"english": "take/carry",
 		"batak": "mamboan"
 	},
 	{
-		"english": "to talk",
+		"english": "talk",
 		"batak": "makkatai"
 	},
 	{
-		"english": "to taste",
+		"english": "taste",
 		"batak": "mandai"
 	},
 	{
-		"english": "to teach",
+		"english": "teach",
 		"batak": "mangajari"
 	},
 	{
-		"english": "to think",
+		"english": "think",
 		"batak": "mamikkiri, pikkiri"
 	},
 	{
-		"english": "to touch",
+		"english": "touch",
 		"batak": "manondong, maniop, manjamah"
 	},
 	{
-		"english": "to translate",
+		"english": "translate",
 		"batak": "manorangkoh"
 	},
 	{
-		"english": "to trek",
+		"english": "trek",
 		"batak": "mandaki"
 	},
 	{
-		"english": "to try (a dish)",
-		"batak": "mandai"
+		"english": "try",
+		"batak": "manorong, manubah, mandai"
 	},
 	{
-		"english": "to try/test",
-		"batak": "manorong, manubah"
-	},
-	{
-		"english": "to visit",
+		"english": "visit",
 		"batak": "martondong"
 	},
 	{
-		"english": "to wait",
+		"english": "wait",
 		"batak": "mamette"
 	},
 	{
-		"english": "to walk",
+		"english": "walk",
 		"batak": "mardalan"
 	},
 	{
-		"english": "to want",
+		"english": "want",
 		"batak": "laho"
 	},
 	{
-		"english": "to wash",
+		"english": "wash",
 		"batak": "manussi"
 	},
 	{
-		"english": "to watch",
+		"english": "watch",
 		"batak": "mamereng"
 	},
 	{
-		"english": "to win",
+		"english": "win",
 		"batak": "monang"
 	},
 	{
-		"english": "to work",
+		"english": "work",
 		"batak": "karejo"
 	},
 	{
-		"english": "to write",
+		"english": "write",
 		"batak": "manurat"
 	},
 	{
@@ -1756,7 +1740,7 @@
 		"batak": "vehseh, WC"
 	},
 	{
-		"english": "tondong town",
+		"english": "city",
 		"batak": "kota"
 	},
 	{
@@ -1764,15 +1748,11 @@
 		"batak": "bodari"
 	},
 	{
-		"english": "too/also",
-		"batak": "dohot"
-	},
-	{
 		"english": "tooth",
 		"batak": "ngingi"
 	},
 	{
-		"english": "torch/flashlight",
+		"english": "flashlight",
 		"batak": "senter"
 	},
 	{
@@ -1821,7 +1801,7 @@
 	},
 	{
 		"english": "very",
-		"batak": "suffix ‘"
+		"batak": "pala, mansai"
 	},
 	{
 		"english": "view",
