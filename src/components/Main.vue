@@ -111,7 +111,6 @@ function searching() {
     // ignoreLocation: false,
     // ignoreFieldNorm: false,
     // fieldNormWeight: 1,
-    // useIndex: true, // menggunakan indeks pencarian
     keys: ["english"],
   };
 
